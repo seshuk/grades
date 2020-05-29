@@ -2,7 +2,7 @@
 var question = require('readline-sync').question;
 
 var config = {
-    connectionString: "AccountEndpoint=https://seshukschool.documents.azure.com:443/;AccountKey=BPP4prregkoNbmJCtFJoeWtfKU7M0KrMLu6pGpw4c4zGvyydlBqul4dwo3GBCWbTUueEZNS41N6QhwTfZqy5cg==",
+    connectionString: "CONNSTR",
     database: "SchoolDB",
     container: "StudentCourseGrades"
 };
